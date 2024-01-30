@@ -1,2 +1,1 @@
-# Forecasting_Stock_Volatility
-Forecasting stock volatility 
+# Realized-Volatility-Prediction
